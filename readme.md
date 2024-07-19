@@ -55,7 +55,7 @@ To apply for the GitHub Student Developer Pack:
 
 Click `Continue`, then on the next page upload your proof of enrollment such as photo of your student ID, a letter from your school, or a transcript. Click `Submit`. You will receive an email from GitHub when your application is approved.
 
-### My Moodle on GitHub
+## My Moodle on GitHub
 
 To keep track of your work, [my-moodle-template](https://github.com/marcocrowe/my-moodle-template "my-moodle-template") can download a copy of your Moodle course content to GitHub. This allows you to keep your notes and share them with your tutor.
 
