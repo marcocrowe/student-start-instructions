@@ -61,11 +61,12 @@ To keep track of your work, [my-moodle-template](https://github.com/marcocrowe/m
 
 To Start:
 
-1. Sign in to your GitHub account.
+1. Sign in to your [GitHub](https://github.com/login "GitHub") account.
 2. Go to <https://github.com/marcocrowe/my-moodle-template> and choose `Use this template`.
-3. For `Repository name`, enter `tus-firstname-lastname-moodle` all **lowercase**, where `tus` is the college, replacing `firstname` and `lastname` with your first and last name.
-4. Once the repository is created, click the `Settings` tab, then `Collaborators` and click `Add People`. Enter `marcocrowe` and click `Add marcocrowe to this repository`.
-5. Once I get the email notification, I will add your Moodle notes to the repository.
+3. There is an option for `Public` or `Private`. **Choose Private**.
+4. For `Repository name`, enter `tus-firstname-lastname-moodle` all **lowercase**, where `tus` is the college, replacing `firstname` and `lastname` with your first and last name.
+5. Once the repository is created, click the `Settings` tab, then `Collaborators` and click `Add People`. Enter `marcocrowe` and click `Add marcocrowe to this repository`.
+6. Once I get the email notification, I will add your Moodle notes to the repository.
 
 ---
 Copyright &copy; 2024 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
