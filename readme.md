@@ -24,13 +24,13 @@ GitHub is a platform for hosting and collaborating on software projects. It uses
 
 1. Visit [GitHub](https://github.com/ "GitHub") at <https://github.com/signup>.
 2. Enter your email address, create a password, and choose a username.
-   * Your **username** should be all **lowercase**. Ideally, your username is firstnamelastname or a variation thereof.
-   * Not not use a dash **-** or underscore **_** in your username.
-   * If your desired username is taken, e.g. `markcrowe` try a variation like:
-     * `realmarkcrowe`
-     * `themarkcrowe`
-     * `notmarkcrowe`
-     * `markjcrowe` *(it doesn't matter that my middle initial is not J)*
+   - Your **username** should be all **lowercase**. Ideally, your username is firstnamelastname or a variation thereof.
+   - Not not use a dash **-** or underscore **_** in your username.
+   - If your desired username is taken, e.g. `markcrowe` try a variation like:
+     - `realmarkcrowe`
+     - `themarkcrowe`
+     - `notmarkcrowe`
+     - `markjcrowe` *(it doesn't matter that my middle initial is not J)*
 3. Follow the prompts to create a new account.
 
 ![GitHub Sign Up Screenshot](images/readme/github-sign-up-screenshot-2024-07jul-19.png)
@@ -43,9 +43,9 @@ To apply for the GitHub Student Developer Pack You must:
 
 1. Have a GitHub account.
 2. Register your student email address on GitHub.
-   * Go to <https://github.com/settings/emails>  Be sure to scroll down to the `Keep my email addresses private` section and check the box.
+   - Go to <https://github.com/settings/emails>  Be sure to scroll down to the `Keep my email addresses private` section and check the box.
 3. Have Two-Factor Authentication (2FA) enabled on your GitHub account.
-   * Go to <https://github.com/settings/security> and scroll down to `Two-factor authentication` and click `Enable two-factor authentication`. Follow the prompts to set up 2FA.
+   - Go to <https://github.com/settings/security> and scroll down to `Two-factor authentication` and click `Enable two-factor authentication`. Follow the prompts to set up 2FA.
 4. Have your Student ID or other proof of enrollment ready.
 
 To apply for the GitHub Student Developer Pack:
@@ -62,11 +62,14 @@ To keep track of your work, [my-moodle-template](https://github.com/marcocrowe/m
 To Start:
 
 1. Sign in to your [GitHub](https://github.com/login "GitHub") account.
-2. Go to <https://github.com/marcocrowe/my-moodle-template> and choose `Use this template`.
-3. There is an option for `Public` or `Private`. **Choose Private**.
-4. For `Repository name`, enter `tus-firstname-lastname-moodle` all **lowercase**, where `tus` is the college, replacing `firstname` and `lastname` with your first and last name.
-5. Once the repository is created, click the `Settings` tab, then `Collaborators` and click `Add People`. Enter `marcocrowe` and click `Add marcocrowe to this repository`.
-6. Once I get the email notification, I will add your Moodle notes to the repository.
+2. Click this link <https://github.com/new?template_name=my-moodle-template&template_owner=marcocrowe>
+   - For `Repository name`, enter `tus-firstname-lastname-moodle` all **lowercase**, where `tus` is the college, replacing `firstname` and `lastname` with your first and last name.
+   - Select `Private` for the repository type.
+   - Click `Create repository`.
+   ![Create Repository Screenshot](images/readme/create-repository-screenshot-2024-07jul-26.png)
+3. Once the repository is created, click the `Settings` tab, then `Collaborators` and click `Add People`. Enter `marcocrowe` and click `Add marcocrowe to this repository`.
+   - ![1722008820809](images/readme/add-collaborators-screenshot-2024-07jul-26.png)
+4. Once I get the email notification, I will add your Moodle notes to the repository.
 
 ---
 Copyright &copy; 2024 Mark Crowe <https://github.com/marcocrowe>. All rights reserved.
