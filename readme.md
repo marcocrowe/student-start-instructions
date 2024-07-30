@@ -1,5 +1,5 @@
 
-# [Student Start Instructions](https://marcocrowe.github.io/student-start-instructions/ "Student Start Instructions")
+# [Student Start Instructions](https://marcocrowe.github.io/student-start-instructions/)
 
 A quick set of instructions to get you started working with me.
 
